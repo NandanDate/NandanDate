@@ -89,7 +89,11 @@ Feel free to reach out to me at nandandate713@gmail.com!
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=NandanDate&theme=dark&background=0D1117&ring=F2AD00&fire=F2AD00&currStreakLabel=F2AD00" alt="GitHub Streak Stats" />
   </a>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandanDate&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
+
 
 <h3 align="left">My Personal Projects:</h3>
 <ul>
