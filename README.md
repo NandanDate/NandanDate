@@ -1,6 +1,5 @@
 <h1 align="left">Hello 👋, I'm Nandan!</h1>
 
-[![](https://visitcount.itsvg.in/api?id=NandanDate&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🚀 About Me
 - 👋 Final-year Computer Science student specializing in AI Engineering
